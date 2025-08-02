@@ -36,14 +36,23 @@ This site showcases my latest projects, skills, and experience as a web and mobi
 
 vite_react_shadcn_ts/
 ├── public/
+
 ├── src/
+
 │ ├── assets/
+
 │ ├── components/
+
 │ ├── pages/
+
 │ ├── App.tsx
+
 │ └── main.tsx
+
 ├── index.html
+
 ├── tailwind.config.ts
+
 └── vite.config.ts
 
 📥 Installation
@@ -64,7 +73,9 @@ Live: https://tuss-portfolio.netlify.app/
 🙋‍♂️ Contact
 
 Have a project in mind or want to connect?
+
 📧 Email: tusharjangid98870@gmail.com
+
 📱 LinkedIn: [linkedin.com/in/tushar](https://www.linkedin.com/in/tushar-sharma-b6b33b258/)
 
 🪪 License
