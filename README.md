@@ -49,8 +49,11 @@ vite_react_shadcn_ts/
 📥 Installation
 
 git clone https://github.com/Tushar-max24/Tushar-Portfolio.git
+
 cd your-repo-name
+
 npm install
+
 npm run dev
 
 🚀 Deployment
