@@ -1,73 +1,94 @@
-# Welcome to your Lovable project
+# 🚀 Tushar's Developer Portfolio
 
-## Project info
+Welcome to my personal **portfolio website**!  
+This site showcases my latest projects, skills, and experience as a web and mobile app developer.
 
-**URL**: https://lovable.dev/projects/6d969188-df5b-4cb1-b976-f9b6f1e916c4
+🔗 **Live Demo**: [https://tuss-portfolio.netlify.app/](https://tuss-portfolio.netlify.app/)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📌 Features
 
-**Use Lovable**
+- 👨‍💻 Responsive developer portfolio UI
+- 💼 Project showcase with GitHub links
+- 🌈 Smooth animations using GSAP
+- 🌐 Tech stack badges and category filters
+- 📱 Mobile-friendly design
+- 🧠 Eye and Arrow icons for preview and GitHub redirection
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6d969188-df5b-4cb1-b976-f9b6f1e916c4) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🧪 Tech Stack
 
-**Use your preferred IDE**
+- **React 18 + Vite**
+- **TypeScript**
+- **Tailwind CSS**
+- **GSAP (GreenSock Animation Platform)**
+- **Phosphor Icons**
+- **Radix UI + ShadCN UI**
+- **React Router**
+- **Figma (for UI designs)**
+- **Netlify** for deployment
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 📂 Folder Structure (Simplified)
 
-Follow these steps:
+vite_react_shadcn_ts/
+├── public/
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+├── src/
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+│ ├── assets/
 
-# Step 3: Install the necessary dependencies.
-npm i
+│ ├── components/
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+│ ├── pages/
+
+│ ├── App.tsx
+
+│ └── main.tsx
+
+├── index.html
+
+├── tailwind.config.ts
+
+└── vite.config.ts
+
+📥 Installation
+
+git clone https://github.com/Tushar-max24/Tushar-Portfolio.git
+
+cd your-repo-name
+
+npm install
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+🚀 Deployment
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+This project is deployed using Netlify
+Live: https://tuss-portfolio.netlify.app/
 
-**Use GitHub Codespaces**
+🙋‍♂️ Contact
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Have a project in mind or want to connect?
 
-## What technologies are used for this project?
+📧 Email: tusharjangid98870@gmail.com
 
-This project is built with:
+📱 LinkedIn: [linkedin.com/in/tushar](https://www.linkedin.com/in/tushar-sharma-b6b33b258/)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🪪 License
 
-## How can I deploy this project?
+This project is open-source and free to use for learning or portfolio inspiration.
 
-Simply open [Lovable](https://lovable.dev/projects/6d969188-df5b-4cb1-b976-f9b6f1e916c4) and click on Share -> Publish.
+⭐ If you like this portfolio, don't forget to star the repo!
 
-## Can I connect a custom domain to my Lovable project?
+yaml
+Copy
+Edit
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Let me know if you'd like me to personalize any links (like your email, LinkedIn)
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
